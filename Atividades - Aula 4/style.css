@@ -1,0 +1,25 @@
+body {
+
+    background-color: rgb(143, 86, 29);
+}
+
+header {
+
+    background-color: bisque;
+    font-style: italic;
+    text-align: center;
+    color: 
+}
+
+main {
+
+    background-color: bisque;
+    font-style: italic;
+    text-align: center;
+}
+
+footer {
+
+    background-color: rgb(102, 59, 3);
+    color: white;
+}
