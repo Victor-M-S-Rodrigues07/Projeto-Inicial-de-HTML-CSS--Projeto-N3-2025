@@ -1,0 +1,4 @@
+HTML = HyperText Makeup Language 
+Metainformações = informações da própria página.
+h = heading, p = paragraph, alt = alternativo, src = source
+<span></span> (Semelhante ao strong);
