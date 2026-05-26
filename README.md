@@ -19,7 +19,7 @@
 
 Esse projeto apresenta a estrutura inicial do site de portfólio de uma programadora. Ele foi criado para a prática e aprendizado da linguagem de marcação **HTML** e da linguagem de estilização **CSS**, como estruturas básicas, tags semânticas, aplicação de metadados, entre outros temas. <br>
 
-Deve-se considerar que esse projeto é a **parte 1** desse site, criado a fim da apreciação avaliativa dos conteúdos aprendidos no curso *HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags*, da Alura (link nos créditos abaixo). Portanto, **ele não é o site em estado final**. <br>
+Deve-se considerar que esse projeto é a **parte 1** desse site, criado a fim da apreciação avaliativa dos conteúdos aprendidos no curso *HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags*, da Alura (link nos créditos abaixo). Portanto, **ele não é o site em estado final**. Por isso os espaçamentos não estão corretos. <br>
 
 Caso deseje checar a parte final desse projeto, clique [aqui](https://github.com/Victor-M-S-Rodrigues07/Curso-Alura---HTML-e-CSS-Classes-possicionamento-e-Flexbox). <br>
 
