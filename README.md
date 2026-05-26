@@ -19,7 +19,7 @@
 
 Esse projeto apresenta a estrutura inicial do site de portfólio de uma programadora. Ele foi criado para a prática e aprendizado da linguagem de marcação **HTML** e da linguagem de estilização **CSS**, como estruturas básicas, tags semânticas, aplicação de metadados, entre outros temas. <br>
 
-Deve-se considerar que esse projeto é a **parte 1** desse site, criado a fim da apreciação avaliativa dos conteúdos aprendidos no curso *HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags*, da Alura (link nos créditos abaixo). Portanto, **ele não é o site em estado final.** <br>
+Deve-se considerar que esse projeto é a **parte 1** desse site, criado a fim da apreciação avaliativa dos conteúdos aprendidos no curso *HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags*, da Alura (link nos créditos abaixo). Portanto, **ele não é o site em estado final**. Caso deseje checar a parte final desse projeto, clique [aqui](https://github.com/Victor-M-S-Rodrigues07/Curso-Alura---HTML-e-CSS-Classes-possicionamento-e-Flexbox). <br>
 
 ## <h2> 🎯 Objetivos da Aprendizagem </h2>
 
@@ -35,7 +35,6 @@ Você pode acessar o protótipo do projeto no Figma clicando [aqui](https://www.
 
 > [!IMPORTANT]
 > É necessário ter uma conta no Figma para ter acesso com mais detalhes aos elementos do protótipo, como a ferramenta inspecionar.
-<br>
 
 ## <h2> 💻 Tecnologias Utilizadas </h2>
 
@@ -63,6 +62,6 @@ style.css
 <a href = "https://www.linkedin.com/in/victor-m-rodrigues/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0?style=for-the-badge&logoColor=%23FFFFFF&color=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvictor-m-rodrigues%2F"></a> 
 <a href = "https://github.com/Victor-M-S-Rodrigues07/"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-0?style=for-the-badge&logo=github&logoColor=%23ffffff&labelColor=%23000000&color=%2300000000"></a>
 <a href = "https://cursos.alura.com.br/user/victorvicmr"><img alt="Static Badge" src="https://img.shields.io/badge/Alura-0?style=for-the-badge&color=%23100D36"></a>
-<a href = "https://cursos.alura.com.br/course/logica-programacao-funcoes-listas"><img alt = "Static Badge" src = "https://img.shields.io/badge/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%3A%20explore%20fun%C3%A7%C3%B5es%20e%20listas-0?style=for-the-badge&label=Curso&color=%23D98989"></a>
+<a href = "https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags"><img alt="Static Badge" src="https://img.shields.io/badge/HTML%20e%20CSS%3A%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags-0?style=for-the-badge&label=Curso&color=%23D92555"></a>
 
 🇧🇷 - 2025
